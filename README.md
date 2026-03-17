@@ -1,7 +1,7 @@
 # Case Study: Análisis de Datos de Cyclistic - Estrategia de Conversión
 
 ## Introducción
-Este proyecto es parte del Certificado Profesional de Análisis de Datos de Google. El análisis se centra en Cyclistic, una empresa de bicicletas compartidas en Chicago, con el objetivo de identificar patrones de uso que permitan diseñar una estrategia de marketing para convertir a usuarios ocasionales en miembros anuales.
+Este proyecto se centra en Cyclistic, una empresa de bicicletas compartidas en Chicago, con el objetivo de identificar patrones de uso que permitan diseñar una estrategia de marketing para convertir a usuarios ocasionales en miembros anuales.
 
 ## Escenario de Negocio
 La dirección de marketing busca maximizar la rentabilidad a largo plazo incrementando el número de membresías anuales. La tarea principal consiste en responder a la pregunta: ¿En qué se diferencian los miembros anuales y los ciclistas ocasionales en el uso de las bicicletas de Cyclistic?
